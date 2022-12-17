@@ -4,7 +4,7 @@ const posts = require("./src/config/posts");
 const postcss = require("./src/config/postcss");
 
 module.exports = {
-  siteName: "Gridsome i18n Boilerplate",
+  siteName: "",
   css: {
     loaderOptions: {
       postcss: {
