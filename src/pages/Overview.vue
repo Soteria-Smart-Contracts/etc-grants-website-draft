@@ -56,8 +56,8 @@
     </p>
 
     <p>
-      Everything will be happening via this website and on the various channels.
-      Grant recipients will funded in $ETC, to aligh incentives with the network.
+      The entire grants process and details will be happening via this website and on the various community channels.
+      Grant recipients will funded in $ETC, to further encourage use of the network.
     </p>
       
     </div>
